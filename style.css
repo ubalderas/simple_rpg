@@ -1,0 +1,43 @@
+.battleWindow{
+    height:150px;
+    width:300px;
+    border: 2px solid black;
+    overflow: auto;
+}
+
+.battleMenu{
+    
+}
+
+.playerStats{
+   
+}
+
+.gameover{
+    display:none;
+}
+
+.red {
+    color:red;
+    font-size:20px
+}
+
+.blue {
+    color:blue;
+    font-size:20px
+}
+
+.green {
+    color:green;
+    font-size:20px
+}
+
+#titleScreen{
+    font-family:Verdana;
+    color:white;
+    background-color:blue;
+}
+
+.stats{
+    display:inline-block;
+}
